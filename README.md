@@ -12,6 +12,7 @@ Learning C++
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,8 +37,13 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->

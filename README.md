@@ -23,6 +23,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Learning C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +61,8 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

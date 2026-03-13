@@ -12,6 +12,7 @@ Learning C++
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion

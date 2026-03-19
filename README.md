@@ -17,6 +17,7 @@ Learning C++
 | [0007-reverse-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ Learning C++
 | [0027-remove-element](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -43,6 +43,7 @@ Learning C++
 | [0004-median-of-two-sorted-arrays](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +118,9 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->

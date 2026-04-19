@@ -37,6 +37,7 @@ Learning C++
 | [0014-longest-common-prefix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -60,6 +61,7 @@ Learning C++
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0031-next-permutation/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

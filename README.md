@@ -77,12 +77,14 @@ Learning C++
 | [0014-longest-common-prefix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
@@ -108,6 +110,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

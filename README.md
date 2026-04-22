@@ -43,6 +43,7 @@ Learning C++
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -157,4 +158,8 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->

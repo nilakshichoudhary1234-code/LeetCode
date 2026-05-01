@@ -50,6 +50,7 @@ Learning C++
 | [0040-combination-sum-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0057-insert-interval](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
@@ -185,6 +186,7 @@ Learning C++
 | [0039-combination-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

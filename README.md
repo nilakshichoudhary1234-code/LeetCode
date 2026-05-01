@@ -48,6 +48,7 @@ Learning C++
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0057-insert-interval](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -104,6 +105,7 @@ Learning C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |

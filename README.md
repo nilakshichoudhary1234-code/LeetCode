@@ -19,6 +19,7 @@ Learning C++
 | [0009-palindrome-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -92,6 +93,7 @@ Learning C++
 | [0020-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
 ## Dynamic Programming
@@ -195,6 +197,7 @@ Learning C++
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |

@@ -49,6 +49,7 @@ Learning C++
 | [0039-combination-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0057-insert-interval](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0057-insert-interval/) | Medium |
@@ -78,6 +79,7 @@ Learning C++
 | [0027-remove-element](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +100,7 @@ Learning C++
 | [0005-longest-palindromic-substring](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
@@ -126,6 +129,7 @@ Learning C++
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -192,4 +196,8 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->

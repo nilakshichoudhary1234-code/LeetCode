@@ -21,6 +21,7 @@ Learning C++
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0062-unique-paths](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -110,6 +111,7 @@ Learning C++
 | [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0062-unique-paths](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
@@ -215,4 +217,8 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->

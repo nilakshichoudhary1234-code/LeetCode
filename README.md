@@ -103,6 +103,7 @@ Learning C++
 | [0044-wildcard-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0058-length-of-last-word](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ Learning C++
 | [0020-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

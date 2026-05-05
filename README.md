@@ -54,6 +54,7 @@ Learning C++
 | [0040-combination-sum-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
@@ -207,6 +208,7 @@ Learning C++
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0052-n-queens-ii/) | Hard |

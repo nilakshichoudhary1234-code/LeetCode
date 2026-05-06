@@ -61,6 +61,7 @@ Learning C++
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0057-insert-interval](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
 ## Binary Search
@@ -117,6 +118,7 @@ Learning C++
 | [0044-wildcard-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -206,6 +208,7 @@ Learning C++
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

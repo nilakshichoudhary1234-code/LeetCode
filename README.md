@@ -22,6 +22,7 @@ Learning C++
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
@@ -59,6 +60,7 @@ Learning C++
 | [0045-jump-game-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0057-insert-interval](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0057-insert-interval/) | Medium |
@@ -218,6 +220,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |

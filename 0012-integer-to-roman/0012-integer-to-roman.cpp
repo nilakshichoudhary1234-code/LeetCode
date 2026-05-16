@@ -1,0 +1,24 @@
+class Solution {
+public:
+    string intToRoman(int num) {
+        // Map values to their corresponding Roman numeral symbols in descending order
+        const vector<pair<int, string>> romanMapping = {
+            {1000, "M"}, {900, "CM"}, {500, "D"}, {400, "CD"},
+            {100, "C"},  {90, "XC"},  {50, "L"},  {40, "XL"},
+            {10, "X"},   {9, "IX"},   {5, "V"},   {4, "IV"},
+            {1, "I"}
+        };
+        
+        string result = "";
+        
+        // Loop through the mapping and greedily build the Roman numeral
+        for (const auto& [value, symbol] : romanMapping) {
+            while (num >= value) {
+                result += symbol;
+                num -= value;
+            }
+        }
+        
+        return result;
+    }
+};

@@ -26,6 +26,7 @@ Learning C++
 | [0048-rotate-image](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -77,6 +78,7 @@ Learning C++
 | [0033-search-in-rotated-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |

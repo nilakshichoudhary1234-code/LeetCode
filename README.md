@@ -28,6 +28,7 @@ Learning C++
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
@@ -208,6 +209,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -241,6 +243,7 @@ Learning C++
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
+| [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

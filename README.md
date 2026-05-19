@@ -180,6 +180,7 @@ Learning C++
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -190,6 +191,7 @@ Learning C++
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -200,6 +202,7 @@ Learning C++
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -264,4 +267,5 @@ Learning C++
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->

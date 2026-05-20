@@ -119,6 +119,7 @@ Learning C++
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0091-decode-ways/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Learning C++
 | [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table

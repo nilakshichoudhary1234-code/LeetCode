@@ -166,6 +166,7 @@ Learning C++
 | [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@ Learning C++
 | [0100-same-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
@@ -208,6 +210,7 @@ Learning C++
 | [0100-same-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Bit Manipulation
@@ -270,4 +273,13 @@ Learning C++
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->

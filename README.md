@@ -100,6 +100,7 @@ Learning C++
 | [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ Learning C++
 | [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

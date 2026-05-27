@@ -71,6 +71,7 @@ Learning C++
 | [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -82,6 +83,7 @@ Learning C++
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@ Learning C++
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |

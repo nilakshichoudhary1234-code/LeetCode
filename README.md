@@ -13,6 +13,7 @@ Learning C++
 | [0025-reverse-nodes-in-k-group](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Learning C++
 | [0061-rotate-list](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@ Learning C++
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |

@@ -128,6 +128,7 @@ Learning C++
 | [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
@@ -271,6 +272,7 @@ Learning C++
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |

@@ -76,6 +76,7 @@ Learning C++
 | [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -149,6 +150,7 @@ Learning C++
 | [0095-unique-binary-search-trees-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0097-interleaving-string/) | Medium |
+| [0118-pascals-triangle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table

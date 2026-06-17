@@ -76,6 +76,7 @@ Learning C++
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
@@ -243,6 +244,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
@@ -281,6 +283,7 @@ Learning C++
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |

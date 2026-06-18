@@ -78,6 +78,7 @@ Learning C++
 | [0075-sort-colors](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -95,6 +96,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ Learning C++
 | [0013-roman-to-integer](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Memoization
@@ -211,6 +214,7 @@ Learning C++
 | [0100-same-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -236,6 +240,7 @@ Learning C++
 | [0100-same-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |

@@ -32,6 +32,7 @@ Learning C++
 | [0070-climbing-stairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ Learning C++
 | [0093-restore-ip-addresses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

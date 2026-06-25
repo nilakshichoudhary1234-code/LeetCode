@@ -194,6 +194,7 @@ Learning C++
 | [0042-trapping-rain-water](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -220,6 +221,7 @@ Learning C++
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -234,6 +236,7 @@ Learning C++
 | [0104-maximum-depth-of-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -250,6 +253,7 @@ Learning C++
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |

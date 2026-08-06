@@ -121,6 +121,7 @@ Learning C++
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0344-reverse-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ Learning C++
 | [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0344-reverse-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

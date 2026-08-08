@@ -81,6 +81,7 @@ Learning C++
 | [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -142,6 +143,7 @@ Learning C++
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0097-interleaving-string/) | Medium |
@@ -240,6 +242,7 @@ Learning C++
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
@@ -308,6 +311,7 @@ Learning C++
 | [0063-unique-paths-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +323,7 @@ Learning C++
 | [0052-n-queens-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |

@@ -152,6 +152,7 @@ Learning C++
 | [0171-excel-sheet-column-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +305,7 @@ Learning C++
 | [0075-sort-colors](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +365,8 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 <!---LeetCode Topics End-->

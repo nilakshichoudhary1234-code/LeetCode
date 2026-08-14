@@ -153,6 +153,7 @@ Learning C++
 | [0344-reverse-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@ Learning C++
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

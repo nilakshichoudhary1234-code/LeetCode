@@ -35,6 +35,7 @@ Learning C++
 | [0096-unique-binary-search-trees](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0415-add-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -152,6 +153,7 @@ Learning C++
 | [0171-excel-sheet-column-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Dynamic Programming
@@ -342,6 +344,7 @@ Learning C++
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0415-add-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0415-add-strings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

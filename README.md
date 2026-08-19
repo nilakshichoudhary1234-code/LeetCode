@@ -37,6 +37,7 @@ Learning C++
 | [0171-excel-sheet-column-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0415-add-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [2235-add-two-integers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

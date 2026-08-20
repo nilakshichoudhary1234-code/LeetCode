@@ -1,18 +1,25 @@
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_set<char> st;
-        int left = 0, maxLen = 0;
-
-        for(int right = 0; right < s.length(); right++) {
-            while(st.count(s[right])) {
-                st.erase(s[left]);
-                left++;
+        // Array to store the last seen index of each ASCII character
+        vector<int> charIndex(128, -1);
+        int maxLength = 0;
+        int left = 0;
+        
+        for (int right = 0; right < s.length(); right++) {
+            // If the character was seen before and is within the current window
+            if (charIndex[s[right]] >= left) {
+                left = charIndex[s[right]] + 1;
             }
-            st.insert(s[right]);
-            maxLen = max(maxLen, right - left + 1);
+            
+            // Update the last seen index of the character
+            charIndex[s[right]] = right;
+            
+            // Calculate the max length found so far
+            maxLength = max(maxLength, right - left + 1);
         }
-
-        return maxLen;
+        
+        return maxLength;
     }
 };

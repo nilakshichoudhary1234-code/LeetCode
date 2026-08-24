@@ -90,6 +90,7 @@ Learning C++
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ Learning C++
 | [0069-sqrtx](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Learning C++
 | [0125-valid-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +194,7 @@ Learning C++
 | [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Memoization
@@ -310,6 +314,7 @@ Learning C++
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |

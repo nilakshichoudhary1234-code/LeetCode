@@ -72,6 +72,7 @@ Learning C++
 | [0046-permutations](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0057-insert-interval](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0057-insert-interval/) | Medium |
@@ -145,6 +146,7 @@ Learning C++
 | [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0071-simplify-path/) | Medium |
@@ -192,6 +194,7 @@ Learning C++
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -312,6 +315,7 @@ Learning C++
 | [0015-3sum](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |

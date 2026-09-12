@@ -145,6 +145,7 @@ Learning C++
 | [0022-generate-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0049-group-anagrams/) | Medium |

@@ -27,6 +27,7 @@ Learning C++
 | [0029-divide-two-integers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0069-sqrtx/) | Easy |
@@ -47,6 +48,7 @@ Learning C++
 | [0024-swap-nodes-in-pairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |

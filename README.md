@@ -167,6 +167,7 @@ Learning C++
 | [0344-reverse-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0409-longest-palindrome/) | Easy |
 | [0415-add-strings](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0551-student-attendance-record-i](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 ## Dynamic Programming

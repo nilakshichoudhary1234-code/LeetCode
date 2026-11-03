@@ -94,6 +94,7 @@ Learning C++
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -307,6 +308,7 @@ Learning C++
 | [0078-subsets](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |

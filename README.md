@@ -9,6 +9,7 @@ Learning C++
 | [0002-add-two-numbers](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0061-rotate-list/) | Medium |
@@ -111,6 +112,7 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0023-merge-k-sorted-lists](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Two Pointers
@@ -425,4 +427,16 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->

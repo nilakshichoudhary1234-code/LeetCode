@@ -439,4 +439,8 @@ Learning C++
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/nilakshichoudhary1234-code/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
